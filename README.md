@@ -19,8 +19,7 @@ python prompt_diff.py old.md new.md --context 3
 ## Example
 
 ```
-prompt-diff v1.0.0
-old.md (3240 tokens) -> new.md (2891 tokens)
+Old: 3240 tokens -> New: 2891 tokens
 Delta: -349 tokens (-10.8%)
 
 --- Changes ---
